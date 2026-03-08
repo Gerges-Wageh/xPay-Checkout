@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "prod_001",
+      "name": "Premium Widget",
+      "price": 99.99,
+      "description": "High-quality widget with advanced features and lifetime support. Perfect for professionals.",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><defs><linearGradient id='g1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:%23667eea;stop-opacity:1' /><stop offset='100%' style='stop-color:%23764ba2;stop-opacity:1' /></linearGradient></defs><rect fill='url(%23g1)' width='300' height='200'/><text x='50%' y='50%' font-family='Arial,sans-serif' font-size='18' font-weight='bold' fill='white' text-anchor='middle' dominant-baseline='middle'>Premium Widget</text></svg>"
+    },
+    {
+      "id": "prod_002",
+      "name": "Standard Gadget",
+      "price": 49.99,
+      "description": "Reliable gadget for everyday use. Simple, effective, and affordable. Great for beginners.",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><defs><linearGradient id='g2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:%23f093fb;stop-opacity:1' /><stop offset='100%' style='stop-color:%234dd0e1;stop-opacity:1' /></linearGradient></defs><rect fill='url(%23g2)' width='300' height='200'/><text x='50%' y='50%' font-family='Arial,sans-serif' font-size='18' font-weight='bold' fill='white' text-anchor='middle' dominant-baseline='middle'>Standard Gadget</text></svg>"
+    },
+    {
+      "id": "prod_003",
+      "name": "Deluxe Package",
+      "price": 199.99,
+      "description": "Complete solution with everything you need. Includes premium support and extended warranty.",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><defs><linearGradient id='g3' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:%234158d0;stop-opacity:1' /><stop offset='100%' style='stop-color:%23c850c0;stop-opacity:1' /></linearGradient></defs><rect fill='url(%23g3)' width='300' height='200'/><text x='50%' y='50%' font-family='Arial,sans-serif' font-size='18' font-weight='bold' fill='white' text-anchor='middle' dominant-baseline='middle'>Deluxe Package</text></svg>"
+    },
+    {
+      "id": "prod_004",
+      "name": "Basic Tool",
+      "price": 29.99,
+      "description": "Essential tool for the job. Lightweight, durable, and easy to use. Perfect to get started.",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><defs><linearGradient id='g4' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:%23fa709a;stop-opacity:1' /><stop offset='100%' style='stop-color:%23fee140;stop-opacity:1' /></linearGradient></defs><rect fill='url(%23g4)' width='300' height='200'/><text x='50%' y='50%' font-family='Arial,sans-serif' font-size='18' font-weight='bold' fill='white' text-anchor='middle' dominant-baseline='middle'>Basic Tool</text></svg>"
+    },
+    {
+      "id": "prod_005",
+      "name": "Professional Suite",
+      "price": 299.99,
+      "description": "Professional-grade solution for advanced users. Includes all premium features and priority support.",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 200'><defs><linearGradient id='g5' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:%2330cfd0;stop-opacity:1' /><stop offset='100%' style='stop-color:%23330867;stop-opacity:1' /></linearGradient></defs><rect fill='url(%23g5)' width='300' height='200'/><text x='50%' y='50%' font-family='Arial,sans-serif' font-size='18' font-weight='bold' fill='white' text-anchor='middle' dominant-baseline='middle'>Professional Suite</text></svg>"
+    }
+  ]
+}

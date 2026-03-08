@@ -1,0 +1,39 @@
+# Node.js / npm
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-error.log*
+*.log
+
+# Vite / Build output
+dist/
+build/
+.vite/
+
+# Environment variables (local, never commit)
+.env.local
+.env.*.local
+
+# IDE / Editor
+.VS Code/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Runtime / OS
+*.tmp
+*.temp
+*.pid
+.cache/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+.vscode/
+.vscode/settings.json
+*.iml
